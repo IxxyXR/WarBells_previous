@@ -36,6 +36,7 @@
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
     "com.uap.unitytimelineevents": "file:UnityTimelineEvents\\Assets\\TimelineEvents",
-    "com.uap.unity-volumetric-light": "file:Unity-Volumetric-Light\\Assets"
+    "com.uap.unity-volumetric-light": "file:Unity-Volumetric-Light\\Assets",
+	"com.uap.defaultplayables": "file:DefaultPlayables"
   }
 }
