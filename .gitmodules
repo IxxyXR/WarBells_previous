@@ -1,3 +1,9 @@
 [submodule "Packages/UnityTimelineEvents"]
 	path = Packages/UnityTimelineEvents
 	url = https://github.com/UnityAssetPackages/UnityTimelineEvents.git
+[submodule "Assets/3rdParty/SabreCSG"]
+	path = Assets/3rdParty/SabreCSG
+	url = https://github.com/UnityAssetPackages/SabreCSG.git
+[submodule "Packages/Unity-Volumetric-Light"]
+	path = Packages/Unity-Volumetric-Light
+	url = https://github.com/UnityAssetPackages/Unity-Volumetric-Light.git
