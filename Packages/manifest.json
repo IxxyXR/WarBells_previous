@@ -37,6 +37,7 @@
     "com.unity.modules.xr": "1.0.0",
     "com.uap.unitytimelineevents": "file:UnityTimelineEvents\\Assets\\TimelineEvents",
     "com.uap.unity-volumetric-light": "file:Unity-Volumetric-Light\\Assets",
-	"com.uap.defaultplayables": "file:DefaultPlayables"
+	"com.uap.defaultplayables": "file:DefaultPlayables",
+	"com.uap.lowpolywater": "file:LowPolyWater\\Assets\\LowPolyWater_Pack"
   }
 }

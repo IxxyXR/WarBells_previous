@@ -10,3 +10,6 @@
 [submodule "Packages/DefaultPlayables"]
 	path = Packages/DefaultPlayables
 	url = https://github.com/UnityAssetPackages/DefaultPlayables.git
+[submodule "Packages/LowPolyWater"]
+	path = Packages/LowPolyWater
+	url = https://github.com/UnityAssetPackages/LowPolyWater.git
