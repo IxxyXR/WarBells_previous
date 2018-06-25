@@ -13,3 +13,6 @@
 [submodule "Packages/LowPolyWater"]
 	path = Packages/LowPolyWater
 	url = https://github.com/UnityAssetPackages/LowPolyWater.git
+[submodule "Packages/gvr-unity-sdk"]
+	path = Packages/gvr-unity-sdk
+	url = https://github.com/UnityAssetPackages/gvr-unity-sdk.git
